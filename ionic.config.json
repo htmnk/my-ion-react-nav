@@ -1,0 +1,7 @@
+{
+  "name": "my-ion-react-nav",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
